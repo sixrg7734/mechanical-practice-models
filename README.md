@@ -1,6 +1,6 @@
 # mechanical-practice-models
 
-> 大一学生 · 机械建模练习仓库 · 工具：FreeCAD
+> 机械建模练习仓库 · 工具：FreeCAD
 
 ## 项目简介
 
