@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img" aria-label="项目总览 图片占位">
+  <rect width="1200" height="675" fill="#f5f7fa"/>
+  <rect x="24" y="24" width="1152" height="627" fill="none" stroke="#c3cad6" stroke-width="3" stroke-dasharray="14 10"/>
+  <text x="600" y="300" font-family="Segoe UI, Microsoft YaHei, PingFang SC, sans-serif" font-size="46" fill="#5a6472" text-anchor="middle">项目总览</text>
+  <text x="600" y="356" font-family="Segoe UI, Microsoft YaHei, PingFang SC, sans-serif" font-size="26" fill="#8b95a3" text-anchor="middle">所有零件的等轴测拼图占位</text>
+  <text x="600" y="410" font-family="Segoe UI, Microsoft YaHei, PingFang SC, sans-serif" font-size="22" fill="#a3abb8" text-anchor="middle">图片待补充：用 FreeCAD 截图替换 images/overview.svg</text>
+</svg>
