@@ -16,7 +16,7 @@
 
 | 工具 | 用途 | 版本 |
 | --- | --- | --- |
-| SOLIDWORKS | 三维建模、工程图 | 学生版（请改成你的实际版本，如 2024） |
+| SOLIDWORKS | 三维建模、工程图 |SOLIDWORKS Design 2026|
 
 > 模型源文件以 SOLIDWORKS 原生格式（`.SLDPRT` / `.SLDASM`）为主，同时导出通用的 `.STEP` / `.STL` 方便查看与 3D 打印。
 
